@@ -1,0 +1,32 @@
+C:\Users\1\source\repos\datachange\datachange\bin\Debug\datachange.exe.config
+C:\Users\1\source\repos\datachange\datachange\bin\Debug\datachange.exe
+C:\Users\1\source\repos\datachange\datachange\bin\Debug\datachange.pdb
+C:\Users\1\source\repos\datachange\datachange\obj\Debug\datachange.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\datachange\datachange\obj\Debug\datachange.Form1.resources
+C:\Users\1\source\repos\datachange\datachange\obj\Debug\datachange.Properties.Resources.resources
+C:\Users\1\source\repos\datachange\datachange\obj\Debug\datachange.csproj.GenerateResource.cache
+C:\Users\1\source\repos\datachange\datachange\obj\Debug\datachange.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\datachange\datachange\obj\Debug\datachange.exe
+C:\Users\1\source\repos\datachange\datachange\obj\Debug\datachange.pdb
+C:\datachange\datachange\bin\Debug\datachange.exe.config
+C:\datachange\datachange\bin\Debug\datachange.exe
+C:\datachange\datachange\bin\Debug\datachange.pdb
+C:\datachange\datachange\obj\Debug\datachange.csproj.AssemblyReference.cache
+C:\datachange\datachange\obj\Debug\datachange.Form1.resources
+C:\datachange\datachange\obj\Debug\datachange.Properties.Resources.resources
+C:\datachange\datachange\obj\Debug\datachange.csproj.GenerateResource.cache
+C:\datachange\datachange\obj\Debug\datachange.csproj.CoreCompileInputs.cache
+C:\datachange\datachange\obj\Debug\datachange.exe
+C:\datachange\datachange\obj\Debug\datachange.pdb
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\bin\Debug\datachange.exe.config
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\bin\Debug\datachange.exe
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\bin\Debug\datachange.pdb
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\obj\Debug\datachange.csproj.AssemblyReference.cache
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\obj\Debug\datachange.exe.config
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\obj\Debug\datachange.Form1.resources
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\obj\Debug\datachange.Properties.Resources.resources
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\obj\Debug\datachange.csproj.GenerateResource.cache
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\obj\Debug\datachange.csproj.CoreCompileInputs.cache
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\obj\Debug\datachange.exe
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\obj\Debug\datachange.pdb
+C:\Users\hfghj\Desktop\datachange Ver1.2\datachange\obj\Debug\datachange.Form2.resources
